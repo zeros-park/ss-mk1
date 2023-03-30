@@ -5,7 +5,7 @@ vscode와 친해지기 (단축키)
 > - 파일 검색(in file): option + f 
 > - 찾아 바꾸기(in file): option + commend + f
 > - 명령어 입력: option + shift + p
-˙
+
 이런건 필요하짆아? 리스트
 =====================
 
