@@ -11,7 +11,9 @@ vscode와 친해지기 (단축키)
 
 > - [ ] 로컬 실행시 자동 오픈
 > - [ ] msw
-> - [ ] vscode 코드 수정 자동 저장ß
+> - [ ] vscode 코드 수정 자동 저장
+> - [ ] nextjs 줄정렬 extension 추가하기(Prettier)
+
 
 
 개발하는 동안의 마음가짐 1차
